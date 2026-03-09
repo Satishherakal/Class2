@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.tree import plot_tree
 
 # Example dataset
-X = [[2,4],
+X = [[2,3],
      [3,4],
      [4,5],
      [6,7],
